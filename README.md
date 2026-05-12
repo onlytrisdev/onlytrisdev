@@ -1,110 +1,86 @@
-<h1 align="center">ONLYTRISDEV</h1>
-<h3 align="center">Software Developer | Tech Enthusiast | Continuous Learner</h3>
+<div align="center">
 
-<p align="center">
-  <a href="#about-me">English</a> • <a href="#về-bản-thân">Tiếng Việt</a>
-</p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=false&width=650&height=100&lines=onlytrisdev;Software+Developer+%7C+System+Architect" alt="header" />
 
----
+</div>
 
-## About Me
+<br/>
 
-> "Striving to build scalable software and write clean, maintainable code."
+<details open>
+<summary><b>EN</b> &mdash; About Me</summary>
+<br/>
 
-I am a software developer deeply passionate about system architecture and backend technologies. I spend my time exploring new frameworks, optimizing algorithms, and turning complex problems into elegant software solutions.
+I build software that scales. My work focuses on backend architecture, system design, and delivering clean code that teams can actually maintain. I'm drawn to hard problems &mdash; the kind that sit at the intersection of performance, security, and developer experience.
 
-**Personal Focus:**
-*   **Architecture:** Exploring System Design, Microservices, and Cloud Infrastructure.
-*   **Best Practices:** Implementing Clean Architecture, SOLID principles, and Test-Driven Development (TDD).
-*   **Continuous Learning:** Always researching new tools to improve developer experience and software performance.
+Currently exploring distributed systems, cloud-native patterns, and AI-assisted development workflows.
 
-**Soft Skills:**
-*   Problem Analysis & Logical Thinking
-*   Adaptability to new technologies
-*   Effective communication and teamwork
+</details>
 
----
+<details>
+<summary><b>VI</b> &mdash; Ve Ban Than</summary>
+<br/>
 
-## Về Bản Thân
+Toi xay dung phan mem co kha nang mo rong. Cong viec cua toi tap trung vao kien truc backend, thiet ke he thong va viet ma sach ma cac doi nhom co the bao tri duoc. Toi bi thu hut boi nhung van de kho &mdash; nhung van de nam o giao diem giua hieu suat, bao mat va trai nghiem lap trinh vien.
 
-> "Nỗ lực xây dựng các phần mềm tối ưu và mã nguồn sạch, dễ bảo trì."
+Hien dang nghien cuu he thong phan tan, cac kien truc cloud-native va quy trinh phat trien ho tro boi AI.
 
-Tôi là một lập trình viên có niềm đam mê lớn với kiến trúc hệ thống và các công nghệ lập trình. Tôi thường dành thời gian nghiên cứu các công nghệ mới, tối ưu hóa thuật toán và biến các vấn đề phức tạp thành những giải pháp phần mềm chất lượng.
-
-**Trọng tâm phát triển:**
-*   **Kiến trúc:** Nghiên cứu Thiết kế hệ thống (System Design), Microservices và Hạ tầng đám mây (Cloud Infrastructure).
-*   **Thực hành lập trình (Best Practices):** Áp dụng Clean Architecture, nguyên tắc SOLID và TDD.
-*   **Không ngừng học hỏi:** Cập nhật liên tục các công cụ mới để tăng hiệu suất và cải thiện trải nghiệm lập trình.
-
-**Kỹ năng mềm:**
-*   Phân tích vấn đề và Tư duy logic
-*   Khả năng thích ứng nhanh với môi trường công nghệ mới
-*   Giao tiếp hiệu quả và kỹ năng làm việc nhóm
+</details>
 
 ---
-
-## Tech Stack & Tools
 
 ### Languages
-<p>
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
-</p>
 
-### Frontend
-<p>
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
-</p>
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![C#](https://img.shields.io/badge/-C%23-000?&logo=csharp&logoColor=239120)
+![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
-### Backend & Databases
-<p>
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS"/>
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
-</p>
+### Technologies
 
-### DevOps & Tools
-<p>
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code"/>
-</p>
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![Express](https://img.shields.io/badge/-Express-000?&logo=Express)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
+![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind-000?&logo=TailwindCSS)
 
 ---
 
-## GitHub Analytics
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=onlytrisdev&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=onlytrisdev&hide_border=true&background=0D1117&title_color=58A6FF&text_color=C9D1D9&sideNums=C9D1D9&sideLabels=C9D1D9&ring=58A6FF&fire=58A6FF" alt="GitHub Streak" />
+
+  <a href="https://github.com/onlytrisdev">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=onlytrisdev&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onlytrisdev&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" />
+  </a>
+
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onlytrisdev&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=onlytrisdev&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=6E7681" alt="streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=onlytrisdev&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9&area=true&area_color=58A6FF&hide_border=true" alt="activity" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=onlytrisdev&theme=algolia&no-frame=true&no-bg=true&column=6" alt="trophy" />
 </div>
 
 ---
 
-## Contact
-
-Feel free to reach out for collaborations or just a tech chat.
-
-<p>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/onlytrisdev">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=onlytrisdev&style=flat-square&color=58A6FF&label=Profile+Views" alt="views" />
+</div>
