@@ -17,12 +17,12 @@ Currently exploring distributed systems, cloud-native patterns, and AI-assisted 
 </details>
 
 <details>
-<summary><b>VI</b> &mdash; Ve Ban Than</summary>
+<summary><b>VI</b> &mdash; Về Bản Thân</summary>
 <br/>
 
-Toi xay dung phan mem co kha nang mo rong. Cong viec cua toi tap trung vao kien truc backend, thiet ke he thong va viet ma sach ma cac doi nhom co the bao tri duoc. Toi bi thu hut boi nhung van de kho &mdash; nhung van de nam o giao diem giua hieu suat, bao mat va trai nghiem lap trinh vien.
+Tôi xây dựng phần mềm có khả năng mở rộng. Công việc của tôi tập trung vào kiến trúc backend, thiết kế hệ thống và viết mã sạch mà các đội nhóm có thể bảo trì được. Tôi bị thu hút bởi những vấn đề khó &mdash; những vấn đề nằm ở giao điểm giữa hiệu suất, bảo mật và trải nghiệm lập trình viên.
 
-Hien dang nghien cuu he thong phan tan, cac kien truc cloud-native va quy trinh phat trien ho tro boi AI.
+Hiện đang nghiên cứu hệ thống phân tán, các kiến trúc cloud-native và quy trình phát triển hỗ trợ bởi AI.
 
 </details>
 
@@ -52,14 +52,10 @@ Hien dang nghien cuu he thong phan tan, cac kien truc cloud-native va quy trinh 
 
 ---
 
-<div align="center">
-
-  <a href="https://github.com/onlytrisdev">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=onlytrisdev&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onlytrisdev&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" />
-  </a>
-
-</div>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=onlytrisdev&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onlytrisdev&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="langs" />
+</p>
 
 <br/>
 
